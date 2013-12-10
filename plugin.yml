@@ -1,0 +1,11 @@
+name: Bund
+main: com.bund.bukkit.fbe.BundPlugin
+version: 0.01
+commands:
+   nom:
+      description: This is the nom command
+      usage: /<command> [player]
+   nomcube:
+      description: Generate a cube
+      usage: /<command>
+
